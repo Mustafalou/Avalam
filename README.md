@@ -1,6 +1,6 @@
-# Projet AI Avalam
-### Name = Yilmaz, Mustafa Ali
-### Matricule = 17292
+<h1> Projet AI Avalam</h1>
+<h2> Name = Yilmaz, Mustafa Ali</h2>
+<h2> Matricule = 17292</h2>
 Voici mon projet d'intelligence artificielle qui jouera pendant la comptétition entre camarade de classe.
 
 ## Inscription:
