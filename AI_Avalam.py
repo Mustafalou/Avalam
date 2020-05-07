@@ -81,8 +81,6 @@ class arbre:
 
         if len(self.goodlist)==0 and len(bestlist)==0 and len(bestlist2)==0 and len(bestlist3)==0 and len(bestlist4)==0:
             move=random.choice(self.equalsmoves())
-            with open('text.txt','a')as file:
-                file.write(str(move))
 
         return move
     def notgoodmove(self, move):
