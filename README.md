@@ -5,7 +5,7 @@ Voici mon projet d'intelligence artificielle qui jouera pendant la comptétition
 
 ## Inscription:
 <p>Pour m'inscrire il faudra taper, par exemple, 'py subscribe.py 9090' dans le terminal</p>
-et pour inscrire la classe qui va avec, c'est la meme chose : 'py AI_Avalam.py 9090' dans le terminal
+<p>Pour inscrire la classe qui va avec, c'est la meme chose : 'py AI_Avalam.py 9090' dans le terminal</p>
 
 ## Le jeu:
 J'ai crée une classe qui aura une fonction qui envoie le mouvement qui paraît le plus adapaté.
