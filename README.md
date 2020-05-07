@@ -4,7 +4,8 @@
 Voici mon projet d'intelligence artificielle qui jouera pendant la comptétition entre camarade de classe.
 
 ## Inscription:
-Pour s'inscrire il faudra taper, par exemple, 'py subscribe.py 9090' dans le terminal
+Pour m'inscrire il faudra taper, par exemple, 'py subscribe.py 9090' dans le terminal
+et pour inscrire la classe qui va avec, c'est la meme chose : 'py AI_Avalam.py 9090' dans le terminal
 
 ## Le jeu:
 J'ai crée une classe qui aura une fonction qui envoie le mouvement qui paraît le plus adapaté.
