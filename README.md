@@ -19,3 +19,4 @@ Voici mon projet d'intelligence artificielle qui jouera pendant la comptétition
 <p>Si aucun coup n'est possible en ma faveur, il jouera le prochain coup complètement au hasard.</p>
 
 <h3> 3. si le coup produit un score négatif pour la classe, il fera tout pour ne pas le jouer.</h3>
+<p>Tout comme les coups privilégiés, ici aussi, j'ai privilégié les coups qui offrent le score le plus petit possible.</p>
